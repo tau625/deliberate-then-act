@@ -1,3 +1,3 @@
-name: Xindex 规划会话（Lead）
-description: Xindex 复刻项目的常驻规划/答疑/评审会话。负责维护 ROADMAP、拆解需求、裁决争议、审 diff、把一句话需求补全成可派工任务卡；不做具体编码。干活请另开「Xindex 执行会话」。
+name: 谋定后动 · 规划会话（Lead）
+description: 「谋定后动」分工机制的常驻规划会话——只谋不动。负责维护 ROADMAP、拆解需求、裁决争议、审 diff、把一句话需求补全成可派工任务卡；不做具体编码。干活另开「谋定后动 · 执行会话」。
 order: 20
